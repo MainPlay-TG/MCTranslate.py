@@ -1,0 +1,2 @@
+mainshortcuts>=1.6.59
+progressbar>=2.5
